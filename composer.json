@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Jacobcyl\\AliOSS\\": "src/"
+            "Zhchi\\AliOSS\\": "src/"
         }
     },
     "extra": {
