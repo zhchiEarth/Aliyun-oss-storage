@@ -19,7 +19,7 @@ In order to install AliOSS-storage, just add
 to your composer.json. Then run `composer install` or `composer update`.  
 Or you can simply run below command to install:
 
-    "composer require zhchi/ali-oss-storage:^1.0"
+    composer require zhchi/ali-oss-storage:^1.0
     
 Then in your `config/app.php` add this line to providers array:
 ```php
